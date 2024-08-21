@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Trabalho como desenvolvedor desde 2018, com foco em PHP Laravel. Mas já atuei em projetos que usaram NodeJs com Express, NestJs e AdonisJs. Já fiz algumas automações em Python utilizando do Selenium.<br><br>Procuro sempre criar soluções de qualidade que também se preocupe com sua manutentabilidade. Gosto de trocar experiências com outras pessoas. Em cada projeto, procuro aumentar o "nível de dificuldade", pra me tirar da zona de conforto e me forçar a sempre estar evoluindo.<br><br>E aí, bora tomar um café e bater uma proza?</p>
+<p align="left">Trabalho como desenvolvedor desde 2018, com foco em PHP Laravel. Mas já atuei em projetos que usaram NodeJs com Express, NestJs e AdonisJs. Já fiz algumas automações em Python utilizando do Selenium.<br><br>Procuro sempre criar soluções de qualidade que também se preocupe com sua manutentabilidade. Gosto de trocar experiências com outras pessoas. Em cada projeto, procuro aumentar o "nível de dificuldade", pra me tirar da zona de conforto e me forçar a sempre estar evoluindo.<br><br>E aí, bora tomar um café e bater uma proza? ☕</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Sempre buscando novas formas de fazer tarefas de modo mais otimizado e profissional<br>📚 Estudando GO<br>🎯 Senioridade</p>
+<p align="left">✨ Sempre buscando novas formas de fazer tarefas de modo mais otimizado e profissional<br>📚 Estudando GO<br></p>
 
 ###
 
