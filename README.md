@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Sempre buscando novas formas de fazer tarefas de modo mais otimizado e profissional<br>📚 Estudando GO</p>
+<p align="left">✨ Sempre buscando novas formas de fazer tarefas de modo mais otimizado e profissional<br>📚 Atualmente estudando GO e outras arquiteturas de projetos</p>
 
 ###
 
